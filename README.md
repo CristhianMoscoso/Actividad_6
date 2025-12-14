@@ -40,6 +40,4 @@ Desarrollar una versión web responsiva que:
 - Media Queries  
 - Chrome DevTools (para pruebas de adaptabilidad)
 
----
-
 ## 📂 Estructura del Proyecto
